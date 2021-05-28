@@ -1,0 +1,177 @@
+body {
+  font-size: 22px;
+  text-decoration: none;
+  background-color: #c7c7c7;
+}
+
+body header {
+  text-align: center;
+}
+
+body main ul {
+  display: flex;
+  list-style-type: none;
+  width: 60%;
+  margin: auto;
+  padding: 0;
+}
+
+body main ul li {
+  width: 200px;
+  border: 1px solid black;
+}
+
+body main ul li h2 {
+  text-align: center;
+  border-bottom: 1px solid black;
+}
+
+body main ul li div {
+  text-align: center;
+  border-bottom: 1px solid black;
+}
+
+body main .button-center {
+  text-align: center;
+  padding-top: 40px;
+}
+
+body main .button-center .home {
+  margin-left: 40px;
+  font-size: 20px;
+  text-decoration: none;
+  border: 1px solid black;
+  padding: 10px 15px;
+  border-radius: 10px;
+  background-color: #398eff;
+  color: black;
+  text-align: center;
+}
+
+body main .button-center .home:hover {
+  background-color: #ffb967;
+}
+
+body main ul.edit {
+  display: flex;
+  list-style-type: none;
+  width: 42%;
+  margin: auto;
+  padding: 0;
+}
+
+body main ul.edit li {
+  width: 200px;
+  border: 1px solid black;
+}
+
+body main ul.edit li h2 {
+  text-align: center;
+  border-bottom: 1px solid black;
+}
+
+body main ul.edit li div {
+  text-align: center;
+  border-bottom: 1px solid black;
+}
+
+body main .button-center {
+  text-align: center;
+  padding-top: 40px;
+}
+
+body main .button-center .home {
+  margin-left: 40px;
+  font-size: 20px;
+  text-decoration: none;
+  border: 1px solid black;
+  padding: 10px 15px;
+  border-radius: 10px;
+  background-color: #398eff;
+  color: black;
+  text-align: center;
+}
+
+body main .button-center .home:hover {
+  background-color: #ffb967;
+}
+
+body main ul.employee {
+  display: flex;
+  list-style-type: none;
+  width: 52%;
+  margin: auto;
+  padding: 0;
+}
+
+body main ul.employee li {
+  width: 200px;
+  border: 1px solid black;
+}
+
+body main ul.employee li h2 {
+  text-align: center;
+  border-bottom: 1px solid black;
+}
+
+body main ul.employee li div {
+  text-align: center;
+  border-bottom: 1px solid black;
+}
+
+body main .button-center {
+  text-align: center;
+  padding-top: 40px;
+}
+
+body main .button-center .home {
+  margin-left: 40px;
+  font-size: 20px;
+  text-decoration: none;
+  border: 1px solid black;
+  padding: 10px 15px;
+  border-radius: 10px;
+  background-color: #398eff;
+  color: black;
+  text-align: center;
+}
+
+body main .button-center .home:hover {
+  background-color: #ffb967;
+}
+
+body main .new-match {
+  text-align: center;
+  padding: 40px 0;
+}
+
+body main .new-match button {
+  margin-left: 40px;
+  font-size: 20px;
+  text-decoration: none;
+  border: 1px solid black;
+  padding: 10px 15px;
+  border-radius: 10px;
+  background-color: #398eff;
+  color: black;
+}
+
+body main .new-match button:hover {
+  background-color: #ffb967;
+}
+
+body main .new-match a {
+  margin-left: 40px;
+  font-size: 20px;
+  text-decoration: none;
+  border: 1px solid black;
+  padding: 10px 15px;
+  border-radius: 10px;
+  background-color: #398eff;
+  color: black;
+}
+
+body main .new-match a:hover {
+  background-color: #ffb967;
+}
+
